@@ -1349,4 +1349,4 @@ function fs.start(tinyftp, ziel, modem, name)
   end
 end
 
-mcserver@Debian-bullseye-latest-amd64-base:~/MinecraftServer/world/opencomputers/24b18f04-4723-4a6f-a894-25dccc397482/fsr$ 
+return fs
